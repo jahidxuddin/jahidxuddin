@@ -7,8 +7,6 @@
 * 📫 How to reach me: __jahidudd65@gmail.com__
 
 <br /> 
-<br />
-<br />
 
 **🔨 Languages and Tools**
 
