@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello World! I'm Jahid - aka ju_dev <span class="wave">👋</span>
+## A 16 years old Student 🧑 and Hobby Developer 👨‍💻 
+* 👨‍💻 I’m currently working on **JavaScript** and **Python**
+* 🌱 I’m currently learning **Java**
+* 🤔 I’m looking for help on my __[Discord Server](https://discord.gg/urvsvPqQ3T)__
 
-<!--
-**ju-dev-16/ju-dev-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📫 How to reach me: __jahidudd65@gmail.com__
 
-Here are some ideas to get you started:
+**🔨 Languages and Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/javascript.png" style="padding-right:10px;" />
+
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/python.png" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/java.png" style="padding-right:10px;" />
+
+<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/vscode.png" style="padding-right:10px;" />
+
+<img align="left" alt="PyCharm" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/pycharm.png" style="padding-right:10px;" />
+
+<img align="left" alt="Putty" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/putty.png" style="padding-right:10px;" />
+
+<img align="left" alt="Filezilla" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/filezilla.png" style="padding-right:10px;" />
+
+<br />
+<br />
+
+**📊 Github Stats**
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-dev-16&show_icons=true&theme=default)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-16&layout=compact)
