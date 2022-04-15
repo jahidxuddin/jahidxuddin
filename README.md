@@ -6,6 +6,10 @@
 
 * 📫 How to reach me: __jahidudd65@gmail.com__
 
+<br /> 
+<br />
+<br />
+
 **🔨 Languages and Tools**
 
 <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/ju-dev-16/ju-dev-16/main/icons/javascript.png" style="padding-right:10px;" />
