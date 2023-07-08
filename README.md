@@ -2,7 +2,7 @@
 ## A 17 years old Student 🧑 and Hobby Developer 👨‍💻 
 
 # 💫 About Me:
-🔭 I’m currently working on Javascript, Python and Java<br>👯 I’m looking to collaborate on [discord](https://discord.gg/urvsvPqQ3T)<br>🤝 I’m looking for help on my [Discord Server](https://discord.gg/urvsvPqQ3T)<br>🌱 I’m currently learning Java
+👯 I’m looking to collaborate on [discord](https://discord.gg/urvsvPqQ3T)<br>🤝 I’m looking for help on my [Discord Server](https://discord.gg/urvsvPqQ3T)<br>
 
 
 ## 🌐 Socials:
