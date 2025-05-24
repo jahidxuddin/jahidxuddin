@@ -1,5 +1,5 @@
-# Hello World! I'm Jahid - aka ju_dev <span class="wave">👋</span>
-## A 19 years old Student 🧑 and Hobby Developer 👨‍💻 
+# Hello World! I'm Jahid - aka dev.ju <span class="wave">👋</span>
+## A 19 years old computer science student 🧑 and hobby developer 👨‍💻 
 
 # 💫 About Me:
 👯 I’m looking to collaborate on [discord](https://discord.gg/urvsvPqQ3T)<br>🤝 I’m looking for help on my [Discord Server](https://discord.gg/urvsvPqQ3T)<br>
