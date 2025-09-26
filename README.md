@@ -1,10 +1,6 @@
 # Hello World! I'm Jahid - aka dev.ju <span class="wave">👋</span>
 ## A 19 years old computer science student 🧑 and hobby developer 👨‍💻 
 
-# 💫 About Me:
-👯 I’m looking to collaborate on [discord](https://discord.gg/urvsvPqQ3T)<br>🤝 I’m looking for help on my [Discord Server](https://discord.gg/urvsvPqQ3T)<br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/urvsvPqQ3T) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jxhid_uddin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@jahiduddin672) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4Gtwz_Jh8ytjFWMGmbcMIA) 
 
